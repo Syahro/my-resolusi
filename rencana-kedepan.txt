@@ -7,3 +7,4 @@
   * MySQL
   * MongoDB
 - Microservices
+- Kubernetes
