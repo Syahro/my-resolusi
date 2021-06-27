@@ -1,6 +1,11 @@
 - Bikin Vlog
 - Bikin Tutorial
+  * Flutter
+  * React
 - Belajar Swift UI
 - Network & Security
 - DBMS
+  * MySQL
+  * PostgreSQL
 - Microservices
+- Kubernetes
