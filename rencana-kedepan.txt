@@ -3,9 +3,8 @@
   * Flutter
   * React
 - Belajar Swift UI
-- Network & Security
 - DBMS
   * MySQL
-  * PostgreSQL
+  * MongoDB
 - Microservices
 - Kubernetes
