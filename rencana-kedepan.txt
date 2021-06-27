@@ -1,5 +1,6 @@
 - Bikin Vlog
 - Bikin Tutorial
 - Belajar Swift UI
+- Network & Security
 - DBMS
 - Microservices
