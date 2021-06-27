@@ -1,0 +1,5 @@
+- Bikin Vlog
+- Bikin Tutorial
+- Belajar Swift UI
+- DBMS
+- Microservices
