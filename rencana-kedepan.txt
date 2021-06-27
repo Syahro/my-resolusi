@@ -8,3 +8,4 @@
   * MySQL
   * PostgreSQL
 - Microservices
+- Kubernetes
